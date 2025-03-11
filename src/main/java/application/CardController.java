@@ -186,7 +186,7 @@ public class CardController {
         return root;
     }
 
-    /**
+     /**
      * Generates random cards with fade-in and fade-out animations.
      */
     public static void generateRandomCards(ImageView[] cardViews) {
